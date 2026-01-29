@@ -16,7 +16,7 @@ jobs:
         id: lychee
         with:
           # Enabling checking of the info that comes after '#' in a link.
-          args: --verbose --no-progress --include-fragments './**/*.md'
+          args: --verbose --no-progress --include-fragments '.'
           # We set this to false so the workflow continues to the "File a Bug" step
           fail: false 
 
