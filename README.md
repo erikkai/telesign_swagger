@@ -1,3 +1,5 @@
+> **NOTE:**  This is a legacy repository from my time at TeleSign. I authored these Swagger specifications to power our Interactive API Explorer, allowing developers to test live API calls directly from our documentation portal.
+> 
 # OpenAPI (Swagger) Specifications
 
 This repository is for storing all of TeleSign's OpenAPI specifications for its product offerings. 
@@ -14,29 +16,29 @@ There are two repositories, Enterprise and Standard. These are based on customer
 
 # APIs in the Standard Repository 
 Standard versions available for use are: 
-* SMS API - TeleSign’s SMS API allows you to build communications and account security messaging into web and mobile applications.
-* Voice API - TeleSign’s Voice API (Legacy) allows you to build communications and account security voice-based messaging into web and mobile applications.
-* Score API - TeleSign’s Score API delivers reputation scoring based on phone number intelligence, traffic patterns, machine learning and a global data consortium. When you submit a request for information about a phone number, you get back all the PhoneID information for the phone number and a score telling you how likely it is the number is used for fraudlent activities.
-* PhoneID API - TeleSign’s PhoneID API allows you to collect detailed and actionable global phone number and subscriber data intelligence to strengthen authentications, evaluate fraud risks, and enhance the user experience.
+* **SMS API** - TeleSign’s SMS API allows you to build communications and account security messaging into web and mobile applications.
+* **Voice API** - TeleSign’s Voice API (Legacy) allows you to build communications and account security voice-based messaging into web and mobile applications.
+* **Score API** - TeleSign’s Score API delivers reputation scoring based on phone number intelligence, traffic patterns, machine learning and a global data consortium. When you submit a request for information about a phone number, you get back all the PhoneID information for the phone number and a score telling you how likely it is the number is used for fraudlent activities.
+* **PhoneID API** - TeleSign’s PhoneID API allows you to collect detailed and actionable global phone number and subscriber data intelligence to strengthen authentications, evaluate fraud risks, and enhance the user experience.
 
 Documentation for Standard products is available at <a href="https://standard.telesign.com">standard.telesign.com</a>.
 You can sign up to try these products at <a href="https://portal.telesign.com">portal.telesign.com</a>.
 
 # APIs in the Enterprise Repository
 Enterprise versions available for use are: 
-* Anonymous SMS API - TeleSign’s Anonymous SMS API allows you to mask phone numbers, safeguarding user identities with anonymized SMS communication experiences between two parties.
-* Get Status API - TeleSign's Get Status API is used with the SMS Verify and Voice Verify APIs. You can retrieve the status of transactions for either API with this. 
-* Phone Numbers API - TeleSign's Phone Numbers API lets you search for and lease phone numbers that are appropriate for your TeleSign projects. You can also query this API to see what phone numbers you have leased, or to cancel a lease. 
-* PhoneID API - TeleSign’s PhoneID API allows you to collect detailed and actionable global phone number and subscriber data intelligence to strengthen authentications, evaluate fraud risks, and enhance the user experience.
-* PhoneID with Add-ons API 
-* SMS API - TeleSign’s SMS API allows you to build communications and account security messaging into web and mobile applications.
-* SMS Verify API - TeleSign’s SMS Verify API lets you send patented, phone-based verification and two-factor authentication using a time-based, one-time passcode sent over SMS.
-* Score API - TeleSign’s Score API delivers reputation scoring based on phone number intelligence, traffic patterns, machine learning and a global data consortium. When you submit a request for information about a phone number, you get back all the PhoneID information for the phone number and a score telling you how likely it is the number is used for fraudlent activities.
-* Voice API - TeleSign’s Voice API (Legacy) allows you to build communications and account security voice-based messaging into web and mobile applications.
-* Voice Verify API - TeleSign’s Voice Verify API allows you to send phone-based verification and two-factor authentication using a one-time passcode sent over message.
+* **Anonymous SMS API** - TeleSign’s Anonymous SMS API allows you to mask phone numbers, safeguarding user identities with anonymized SMS communication experiences between two parties.
+* **Get Status API** - TeleSign's Get Status API is used with the SMS Verify and Voice Verify APIs. You can retrieve the status of transactions for either API with this. 
+* **Phone Numbers API** - TeleSign's Phone Numbers API lets you search for and lease phone numbers that are appropriate for your TeleSign projects. You can also query this API to see what phone numbers you have leased, or to cancel a lease. 
+* **PhoneID API** - TeleSign’s PhoneID API allows you to collect detailed and actionable global phone number and subscriber data intelligence to strengthen authentications, evaluate fraud risks, and enhance the user experience.
+* **PhoneID with Add-ons API** 
+* **SMS API** - TeleSign’s SMS API allows you to build communications and account security messaging into web and mobile applications.
+* **SMS Verify API** - TeleSign’s SMS Verify API lets you send patented, phone-based verification and two-factor authentication using a time-based, one-time passcode sent over SMS.
+* **Score API** - TeleSign’s Score API delivers reputation scoring based on phone number intelligence, traffic patterns, machine learning and a global data consortium. When you submit a request for information about a phone number, you get back all the PhoneID information for the phone number and a score telling you how likely it is the number is used for fraudlent activities.
+* **Voice API** - TeleSign’s Voice API (Legacy) allows you to build communications and account security voice-based messaging into web and mobile applications.
+* **Voice Verify API** - TeleSign’s Voice Verify API allows you to send phone-based verification and two-factor authentication using a one-time passcode sent over message.
 
 Documentation for Enterprise products is available at <a href="https://enterprise.telesign.com">enterprise.telesign.com</a>.
 
-*Frequently during discussions, developers will use Swagger to refer to the specification and the tools for creating the specification. To be clear, Swagger is now used to refer to the open-source tools you can use to work with your specification. For example, you might put your OpenAPI specification into the Swagger Editor to work on writing it. 
+Frequently during discussions, developers will use Swagger to refer to the specification and the tools for creating the specification. To be clear, Swagger is now used to refer to the open-source tools you can use to work with your specification. For example, you might put your OpenAPI specification into the Swagger Editor to work on writing it. 
 
 
