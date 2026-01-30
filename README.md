@@ -1,6 +1,6 @@
 [![Link Checker](https://github.com/erikkai/telesign_swagger/actions/workflows/link-checker.yml/badge.svg)](https://github.com/erikkai/telesign_swagger/actions/workflows/link-checker.yml)
 
-> **NOTE:**  This is a legacy repository from my time at TeleSign. I authored these Swagger specifications to power our Interactive API Explorer, allowing developers to test live API calls directly from our documentation portal.
+> **LEGACY PROJECT:**  This is a legacy repository from my time at TeleSign. I authored these Swagger specifications to power our Interactive API Explorer, allowing developers to test live API calls directly from our documentation portal.
 > 
 # OpenAPI (Swagger) Specifications
 
